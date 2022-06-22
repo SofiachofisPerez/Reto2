@@ -1,0 +1,78 @@
+body{
+    background:-webkit-linear-gradient(left,rgb(248, 101, 162),rgb(222, 92, 248));
+}
+.header{
+    display: flex;
+    justify-content: space-around;
+}
+.header-casillas{
+    margin: 0% 0.3%;
+    background-color: yellow;
+    width: 17% ;
+    text-align: center;
+
+}
+.seccion-2{
+    display: flex;
+    margin-top: 10px;
+    padding-left: 0.5% ;
+
+}
+.section-2-1{
+   width: 66%;
+   height: 200px;
+   background-image: url(Taquito.jpg);
+}
+.precios{
+    margin-left: 1%;
+}
+.precios2{
+    padding: 50% 400%;
+    margin-left: 9px;
+    background-color: yellow;
+}
+.precios2-2{
+    padding: 50% 400%;
+    margin-left: 9px;
+    background-color: yellow;
+    margin-top: 20%;
+}
+.casillas{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 1%;
+}
+.casillas2{
+    background-color: white;
+    text-align: center;
+    padding: 1% 5% 0% 5%;
+}
+.casillas-img{
+    height: 50px;
+}
+.last{
+    display: flex;
+    background-color: white;
+    margin: 20px;
+}
+.foto{
+    height: 200px;
+    margin: 2%;
+}
+.texto{
+    margin-left: 20px;
+    margin-top: 1%;
+}
+.texto-boton{
+    background-color: yellow;
+    border: none;
+    height: 25px;
+    width: 100px;
+}
+
+.section-2-1-1{
+    text-align: center;
+    margin-left: 20px;
+    width: 170px;
+    background-color: gold;
+}
